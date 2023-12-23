@@ -1,4 +1,4 @@
-[comment]: <> ([![pub package]&#40;https://img.shields.io/pub/v/social_login_buttons.svg&#41;]&#40;https://pub.dev/packages/social_login_buttons&#41;)
+[![pub package](https://pub.dev/packages/flutter_social_media_button)
 [comment]: <> ([![pub points]&#40;https://badges.bar/social_login_buttons/pub%20points&#41;]&#40;https://pub.dev/packages/social_login_buttons&#41;)
 # Flutter Social Media Button
 
