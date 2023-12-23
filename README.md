@@ -1,5 +1,5 @@
-[![pub package](https://img.shields.io/pub/v/social_login_buttons.svg)](https://pub.dev/packages/social_login_buttons)
-[![pub points](https://badges.bar/social_login_buttons/pub%20points)](https://pub.dev/packages/social_login_buttons)
+[comment]: <> ([![pub package]&#40;https://img.shields.io/pub/v/social_login_buttons.svg&#41;]&#40;https://pub.dev/packages/social_login_buttons&#41;)
+[comment]: <> ([![pub points]&#40;https://badges.bar/social_login_buttons/pub%20points&#41;]&#40;https://pub.dev/packages/social_login_buttons&#41;)
 # Flutter Social Media Button
 
 Flutter Social Media Button is a flutter package to create social media login buttons of all common used SSO.
@@ -116,6 +116,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [Apache-2.0](https://choosealicense.com/licenses/apache-2.0/)
 
 ## Screenshot
-![Image](https://github.com/Shahabmustafa/flutter_social_media_button/screenshots/images1.png)
-
-[comment]: <> (![Image]&#40;https://github.com/Shahabmustafa/flutter_social_media_button/blob/master/screenshots/images2.png&#41;)
+![Image](https://github.com/Shahabmustafa/flutter_social_media_button/blob/master/screenshots/images1.png)
+![Image](https://github.com/Shahabmustafa/flutter_social_media_button/blob/master/screenshots/images2.png)
