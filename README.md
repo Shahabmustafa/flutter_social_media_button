@@ -1,4 +1,4 @@
-[![pub package](https://pub.dev/packages/flutter_social_media_button)
+[![pub package](https://img.shields.io/pub/v/flutter_social_media_button)](https://pub.dev/packages/flutter_social_media_button)
 # Flutter Social Media Button
 
 Flutter Social Media Button is a flutter package to create social media login buttons of all common used SSO.
